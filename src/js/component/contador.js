@@ -12,42 +12,42 @@ function Contador({digito1, digito2, digito3, digito4, digito5, digito6}){
                 </div>
             </div>
               
-            <div className="col-sm-1 mb-3 mb-sm-0 ">
+            <div className="col-sm-auto mb-3 mb-sm-0 ">
                 <div className="card">
                 <div className="card-body bg-dark rounded" style={{height: "100px"}}>                   
                     <p className="card-text text-white fs-1">{digito6}</p>
                 </div>
                 </div>
             </div>
-            <div className="col-sm-1 mb-3 mb-sm-0">
+            <div className="col-sm-auto mb-3 mb-sm-0">
                 <div className="card">
                 <div className="card-body bg-dark rounded" style={{height: "100px"}}>    
                     <p className="card-text text-white fs-1">{digito5}</p>
                 </div>
                 </div>
             </div>
-            <div className="col-sm-1 mb-3 mb-sm-0">
+            <div className="col-sm-auto mb-3 mb-sm-0">
                 <div className="card">
                 <div className="card-body bg-dark rounded" style={{height: "100px"}}>    
                     <p className="card-text text-white fs-1">{digito4}</p>
                 </div>
                 </div>
             </div>
-            <div className="col-sm-1 mb-3 mb-sm-0">
+            <div className="col-sm-auto mb-3 mb-sm-0">
                 <div className="card">
                 <div className="card-body bg-dark rounded" style={{height: "100px"}}>    
                     <p className="card-text text-white fs-1">{digito3}</p>
                 </div>
                 </div>
             </div>
-            <div className="col-sm-1 mb-3 mb-sm-0">
+            <div className="col-sm-auto mb-3 mb-sm-0">
                 <div className="card">
                 <div className="card-body bg-dark rounded" style={{height: "100px"}}>    
                     <p className="card-text text-white fs-1">{digito2}</p>
                 </div>
                 </div>
             </div>
-            <div className="col-sm-1 mb-3 mb-sm-0">
+            <div className="col-sm-auto mb-3 mb-sm-0">
                 <div className="card">
                 <div className="card-body bg-dark rounded " style={{height: "100px"}}>    
                     <p className="card-text text-white fs-1">{digito1}</p>
